@@ -1,0 +1,18 @@
+.doboz{
+    background-color: orange;
+padding:20px;
+width: 80%;
+border: 20px solid black;
+margin: 20px;
+}
+#pöttyök{
+    border: 20px dotted skyblue;
+}
+
+.doboz h1 {
+    background-color: orchid;
+margin: 0;
+}
+#vonalas {
+    border: 20px dashed red; 
+}
